@@ -2,7 +2,7 @@
 ## Reto python "Desarrollador Junior"
 Se debe crear un programa que sea capaz de calcular la suma de cubos y cuadrados de los digitos de un numero proporcionado aleatoriamente o proporcionados por consola.
 
-###**REGLAS**
+**REGLAS**
 1. El lenguaje de programacion debe ser python.
 2. De utilizar POO.
 3. Todas las clases deben contener el metodo constructor.
