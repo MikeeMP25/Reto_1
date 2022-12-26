@@ -1,8 +1,15 @@
 from SumaDeCuadrados import SumaDeCuadrados
 from SumaDeCubos import SumaDeCubos
 
+
 print("Bienvenidos a Reto Python")
-cantidad=input("Ingresa la cantidad a calcular  ")
+when true:
+  try{
+  cantidad=int(input("Ingresa un numero entero:  "))
+  exception e{
+    print("No es un nuemero vuelve a intentarlo")
+  }
+  }
 cuadrados=SumaDeCuadrados(cantidad)
 cuadrados.RecorrerCadena()
 cubos=SumaDeCubos(cantidad)
