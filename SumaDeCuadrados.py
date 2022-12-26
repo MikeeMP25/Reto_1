@@ -6,5 +6,11 @@ class SumaDeCuadrados(Potencia):
         super().__init__(valor)
 
     def CalcularCuadrados(self):
-        resultado=(self.a*self.a)+(self.b*self.b)+(self.c*self.c)
+        a=0
+        resultado=0
+        for valor in recorrido():
+            a=valor
+            a=a*a
+            resultado+=a
+        #resultado=(self.a*self.a)+(self.b*self.b)+(self.c*self.c)
         return resultado      
